@@ -1,0 +1,254 @@
+pl.png,poland,easy,europe
+mo.png,macau,hard,asia
+ma.png,morocco,easy,africa
+bd.png,bangladesh,medium,asia
+gb-nir.png,northern ireland,medium,europe
+lt.png,lithuania,medium,europe
+et.png,ethiopia,medium,africa
+mf.png,saint martin,hard,americas
+lc.png,saint lucia,hard,americas
+ae.png,united arab emirates,medium,asia
+bn.png,brunei,hard,asia
+im.png,isle of man,hard,europe
+cr.png,costa rica,medium,americas
+bh.png,bahrain,medium,asia
+nr.png,nauru,hard,oceania
+tf.png,french southern and antarctic lands,hard,antarctic
+tm.png,turkmenistan,medium,asia
+cy.png,cyprus,easy,europe
+cl.png,chile,easy,americas
+no.png,norway,easy,europe
+br.png,brazil,easy,americas
+to.png,tonga,hard,oceania
+nl.png,netherlands,easy,europe
+uy.png,uruguay,medium,americas
+tv.png,tuvalu,hard,oceania
+lu.png,luxembourg,medium,europe
+mw.png,malawi,hard,africa
+kz.png,kazakhstan,medium,asia
+bv.png,bouvet island,hard,antarctica
+mz.png,mozambique,medium,africa
+bq.png,bonaire,hard,americas
+es.png,spain,easy,europe
+ro.png,romania,medium,europe
+il.png,israel,easy,asia
+gb.png,great britain,easy,europe
+na.png,namibia,medium,africa
+in.png,india,easy,medium
+hk.png,hong kong,easy,asia
+ht.png,haiti,medium,americas
+ki.png,kiribati,hard,oceania
+gb-wls.png,wales,easy,europe
+uz.png,uzbekistan,medium,asia
+gs.png,south georgia and the south sandwich islands,hard,antarctic
+rw.png,rwanda,hard,africa
+hn.png,honduras,medium,americas
+ck.png,cook islands,hard,oceania
+iq.png,iraq,easy,asia
+dm.png,dominica,hard,americas
+hu.png,hungary,easy,europe
+ni.png,nicaragua,medium,americas
+ml.png,mali,hard,africa
+sa.png,saudi arabia,easy,asia
+om.png,oman,medium,asia
+am.png,armenia,medium,asia
+gl.png,greenland,easy,americas
+sy.png,syria,medium,asia
+fr.png,france,easy,europe
+dz.png,algeria,easy,africa
+mp.png,northern mariana islands,hard,oceania
+fi.png,finland,easy,europe
+sh.png,saint helena,hard,africa
+ss.png,south sudan,medium,africa
+mq.png,martinique,hard,americas
+qa.png,qatar,medium,asia
+ph.png,philippines,easy,asia
+az.png,azerbaijan,medium,asia
+ug.png,uganda,medium,africa
+tw.png,taiwan,easy,asia
+ca.png,canada,easy,americas
+lk.png,sri lanka,medium,asia
+ie.png,ireland,easy,europe
+al.png,albania,medium,europe
+mh.png,marshall islands,hard,oceania
+ai.png,anguilla,hard,americas
+sb.png,solomon islands,hard,oceania
+vi.png,u.s. virgin islands,medium,americas
+ci.png,ivory coast,medium,africa
+as.png,american samoa,medium,oceania
+gd.png,grenada,hard,americas
+ke.png,kenya,medium,africa
+zw.png,zimbabwe,medium,africa
+mm.png,myanmar,medium,asia
+fm.png,micronesia,hard,oceania
+be.png,belgium,easy,europe
+me.png,montenegro,medium,europe
+is.png,iceland,medium,europe
+ge.png,georgia,medium,asia
+eh.png,western sahara,hard,africa
+ag.png,antigua and barbuda,hard,americas
+tn.png,tunisia,medium,africa
+hm.png,heard and mcdonald islands,hard,oceania
+tk.png,tokelau,hard,oceania
+sl.png,sierra leone,hard,africa
+af.png,afghanistan,easy,asia
+gf.png,french guiana,hard,americas
+np.png,nepal,medium,asia
+vn.png,vietnam,easy,asia
+mk.png,macedonia,medium,europe
+sn.png,senegal,medium,africa
+fj.png,fiji,hard,oceania
+tj.png,tajikistan,hard,asia
+pt.png,portugal,easy,europe
+gn.png,guinea,hard,africa
+ng.png,nigeria,easy,africa
+ee.png,estonia,medium,europe
+km.png,comoros,hard,africa
+pg.png,papua new guinea,medium,oceania
+pw.png,palau,hard,oceania
+sd.png,sudan,hard,africa
+aq.png,antarctica,easy,antarctica
+ve.png,venezuela,easy,americas
+cd.png,drc,medium,africa
+lb.png,lebanon,easy,asia
+ls.png,lesotho,medium,africa
+wf.png,wallis and futuna,hard,oceania
+li.png,liechtenstein,medium,europe
+sk.png,slovakia,medium,europe
+mc.png,monaco,medium,europe
+gb-eng.png,england,easy,europe
+vu.png,vanuatu,hard,oceania
+jm.png,jamaica,easy,americas
+my.png,malaysia,easy,asia
+bb.png,barbados,medium,americas
+ps.png,palestine,medium,asia
+mx.png,mexico,easy,americas
+ga.png,gabon,hard,africa
+gb-sct.png,scotland,easy,europe
+fo.png,faroe islands,hard,europe
+kp.png,north korea,easy,asia
+it.png,italy,easy,europe
+bs.png,bahamas,medium,americas
+cn.png,china,easy,asia
+co.png,colombia,easy,americas
+nu.png,niue,hard,oceania
+ao.png,angola,easy,africa
+um.png,u.s. minor outlying islands,hard,americas
+cc.png,cocos islands,hard,asia
+ec.png,ecuador,medium,americas
+yt.png,mayotte,hard,africa
+sv.png,el salvador,medium,americas
+xk.png,kosovo,medium,europe
+va.png,vatican,easy,europe
+mn.png,mongolia,medium,asia
+dk.png,denmark,medium,europe
+tc.png,turks and caicos,hard,americas
+bj.png,benin,hard,africa
+bl.png,saint barthelemy,hard,americas
+vc.png,saint vincent and the grenadines,hard,americas
+ch.png,switzerland,easy,europe
+hr.png,croatia,easy,europe
+tz.png,tanzania,hard,africa
+er.png,eritrea,hard,africa
+je.png,jersey,hard,europe
+cg.png,roc,hard,africa
+bz.png,belize,hard,americas
+bf.png,burkina faso,hard,africa
+jo.png,jordan,hard,asia
+pr.png,puerto rico,hard,americas
+tl.png,timor leste,hard,asia
+mu.png,mauritus,hard,africa
+sm.png,san marino,medium,europe
+pn.png,pitcairn islands,hard,oceania
+cm.png,cameroon,medium,africa
+sr.png,suriname,hard,americas
+ad.png,andorra,hard,europe
+sj.png,svalbard and jan mayen,hard,europe
+za.png,south africa,easy,africa
+pk.png,pakistan,easy,asia
+ar.png,argentina,easy,americas
+si.png,slovenia,medium,europe
+th.png,thailand,easy,asia
+kw.png,kuwait,hard,asia
+se.png,sweden,easy,europe
+jp.png,japan,easy,asia
+kn.png,saint kitts and nevis,hard,americas
+ne.png,niger,hard,africa
+mv.png,maldives,hard,asia
+ir.png,iran,easy,asia
+sx.png,sint maarten,hard,americas
+mg.png,madagascar,hard,africa
+bw.png,botswana,medium,africa
+cz.png,czechia,medium,europe
+bo.png,bolivia,hard,americas
+sc.png,seychelles,medium,africa
+gq.png,equatorial guinea,hard,africa
+rs.png,serbia,medium,europe
+pf.png,french polynesia,hard,oceania
+at.png,austria,medium,europe
+ly.png,libya,easy,africa
+id.png,indonesia,hard,asia
+lr.png,liberia,hard,africa
+bt.png,bhutan,medium,asia
+cv.png,cape verde,hard,africa
+cf.png,central african republic,medium,africa
+nc.png,new caledonia,hard,oceania
+sz.png,eswatini,hard,africa
+ms.png,montserrat,hard,americas
+tg.png,togo,hard,africa
+bm.png,bermuda,hard,americas
+vg.png,british virgin islands,hard,americas
+pm.png,saint pierre and miquelon,hard,americas
+cw.png,curacao,hard,americas
+ye.png,yemen,hard,asia
+gr.png,greece,easy,europe
+re.png,reunion,hard,africa
+ba.png,bosnia and herzegovina,medium,europe
+gi.png,gibraltar,hard,europe
+md.png,moldova,hard,europe
+gt.png,guatemala,hard,americas
+kh.png,cambodia,medium,asia
+tr.png,turkey,easy,europe
+io.png,british indian ocean territory,hard,asia
+py.png,paraguay,medium,americas
+tt.png,trinidad and tobago,medium,americas
+gu.png,guam,easy,oceania
+zm.png,zambia,hard,africa
+us.png,united states,easy,americas
+eg.png,egypt,easy,africa
+ky.png,cayman islands,hard,americas
+ru.png,russia,easy,europe
+ax.png,aland,hard,europe
+bg.png,bulgaria,medium,europe
+gg.png,guernsey,hard,europe
+fk.png,falkland islands,hard,americas
+gy.png,guyana,hard,americas
+td.png,chad,hard,africa
+aw.png,aruba,hard,americas
+ws.png,samoa,hard,oceania
+mt.png,malta,medium,europe
+nf.png,norfolk island,hard,oceania
+st.png,sao tome and principe,hard,africa
+dj.png,djibouti,hard,africa
+by.png,belarus,medium,europe
+la.png,laos,hard,asia
+cx.png,christmas island,hard,asia
+cu.png,cuba,easy,americas
+mr.png,mauritania,hard,africa
+kr.png,south korea,easy,asia
+gw.png,guinea-bissau,hard,africa
+gh.png,ghana,hard,africa
+sg.png,singapore,medium,asia
+nz.png,new zealand,easy,oceania
+bi.png,burundi,hard,africa
+pa.png,panama,easy,americas
+do.png,dominican republic,medium,americas
+lv.png,latvia,medium,europe
+pe.png,peru,medium,americas
+gp.png,guadeloupe,hard,americas
+au.png,australia,easy,oceania
+kg.png,kyrgyzstan,medium,asia
+ua.png,ukraine,easy,europe
+so.png,somalia,medium,africa
+gm.png,gambia,hard,africa
+de.png,germany,easy,europe
